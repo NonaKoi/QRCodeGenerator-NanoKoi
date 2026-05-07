@@ -1,0 +1,13 @@
+bin/
+obj/
+*.exe
+*.dll
+appsettings.*.json
+appsettings.Development.json
+*.log
+logs/
+publish/
+*.zip
+*.rar
+.DS_Store
+Thumbs.db
